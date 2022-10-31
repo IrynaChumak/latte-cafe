@@ -1,0 +1,29 @@
+
+
+.btn-header{
+  background-color: transparent;
+    border: none;
+    color: #D27487;
+    cursor: pointer;
+    font-size: 17px;
+    font-family: "Inter";
+    padding: 10px 15px;
+}
+
+.btn-header:hover{
+  border-radius: 10px;
+  background-color: #a78b90;
+  transition: 0.3s ease-in-out;
+  color: #fff;
+}
+
+.font-inter{
+  font-family: 'Inter';
+  font-weight: 400;
+}
+
+.font-azeret{
+  font-family: 'Azeret Mono';
+  font-weight: 700;
+  font-size: 17px;
+}
